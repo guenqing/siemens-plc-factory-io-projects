@@ -1,2 +1,2 @@
-# siemens-plc-factory-io-projects
+# 工业产线 PLC 完整可运行程序与 Factory I/O 仿真
 本仓库的项目基于西门子 TIA Portal V20 和 Factory I/O 完成的 PLC 控制与仿真工程，主要项目都是一些简单的实际产线遇到过的工程，部分器件因为仿真器件有限，未能充分表达，使用其他东西代替，如有不懂，可联系guenqing1007@gmail.com展示梯形图编程、I/O 信号配置、控制流程设计及仿真联调能力。仓库提供 PLC 工程文件、对应的仿真场景工程文件及相关资料，便于下载查阅和复现。
